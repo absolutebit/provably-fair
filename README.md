@@ -10,5 +10,5 @@ Random numbers are generated through the use of two seeds: a server seed, and yo
 - Insert "Secret Server Seed" into $server_seed
 - Insert "Client Seed" into $client_seed
 - Run PHP script
-- Check that "Hashed Server Seed" matches the one shown before the game starts
+- Check that "Hashed Server Seed" matches the one shown before the game started
 - Check that "Answer Key" matches the one shown after game ended
